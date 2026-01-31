@@ -1,0 +1,49 @@
+{
+"name": "High School Musical",
+"image": "https://pics.filmaffinity.com/high_school_musical_hsm-718907368-large.jpg",
+"url": "https://raw.githubusercontent.com/AdriDeCai/sagas/main/saga HIGH SCHOOL MUSICAL.w3u",
+"info": "bY Virgin Mary",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations": 
+                [
+
+        {
+        "name": "High School Musical I",
+        "info": "[2006][Español]",
+        "image": "https://pics.filmaffinity.com/high_school_musical_hsm-718907368-large.jpg",
+        "url": "https://byseraguci.com/d/fw4lyj21b8zp/high-school-musical",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "High School Musical II",
+        "info": "[2007][Español]",
+        "image": "https://pics.filmaffinity.com/high_school_musical_2_hsm_2-318249736-large.jpg",
+        "url": "https://byseraguci.com/d/9mg9gancort0/high-school-musical-2",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "High School Musical III. Fin de Curso",
+        "info": "[2008][Español]",
+        "image": "https://pics.filmaffinity.com/high_school_musical_3_senior_year_hsm_3-632878795-large.jpg",
+        "url": "https://byseraguci.com/d/jj1uj3uii2g3/high-school-musical-3-fin-de-curso",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        },
+        {
+        "name": "High School Musical: The Musical: The Holiday Special",
+        "info": "[2020][Español]",
+        "image": "https://pics.filmaffinity.com/high_school_musical_the_musical_the_holiday_special-355790320-large.jpg",
+        "url": "https://byseraguci.com/d/lawsmimm4rh1/high-school-musical-the-musical-the-holiday-special",
+        "isHost": "true",
+        "online": "true",
+        "userAgent": "PlusMediaPlayer/0.0.9"
+        }
+
+]
+}
